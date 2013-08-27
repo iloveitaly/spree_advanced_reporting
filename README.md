@@ -1,6 +1,8 @@
-# NOTES:
+Spree Advanced Reporting
+========================
+[![Build Status](https://travis-ci.org/iloveitaly/spree_advanced_reporting.png?branch=master)](https://travis-ci.org/iloveitaly/spree_advanced_reporting)
 
-This branch is for use with Spree 1.1.0 and later.
+This branch is for use with Spree 1.3.0 and later.
 
 For Spree 1.0.x, use the spree-1-0 branch.
 
@@ -21,3 +23,8 @@ Forked from what appeared to the be the most up to date for, and made the follow
 ## Dependencies:
 * Ruport and Ruport-util
 * Google Visualization
+
+## Credits  
+
+## License  
+See LICENSE

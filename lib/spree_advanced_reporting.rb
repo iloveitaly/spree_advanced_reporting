@@ -1,6 +1,8 @@
-require "ruport"
+require 'spree_core'
+require 'ruport'
 require 'wicked_pdf'
 
+      
 module Spree
   module AdvancedReporting
     class Engine < Rails::Engine
